@@ -1,0 +1,18 @@
+body{
+    font-family: montserrat;
+    text-align: center;
+}
+.image{
+    width: 100px;
+}
+h1,h5,h3,h4,b{
+    font-family: montserrat;
+}
+ol{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(204, 221, 236);
+}
+#hairclip{
+    margin-left: -15px;
+}
